@@ -1,0 +1,1 @@
+~/v/v run main.v
